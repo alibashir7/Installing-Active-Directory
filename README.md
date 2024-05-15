@@ -9,7 +9,7 @@ In this lab, I'll demonstrate how to install Active Directory Domain Services on
 <h2>Windows Server Manager</h2>
 To start off will go to https://portal.azure.com and click on the VM tab.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/6c81228b-239e-412a-9a1e-40115bace25c" alt=/>
-The we will proceed to create our VM according to the specifications highlighted below.
+Then we will proceed to create our VM according to the specifications highlighted below.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/7e23da19-0bbe-4355-b063-64cc57cd0729" alt=/>
 For the resource group we won't put anything and will let Azure create one for us.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/f0acc944-8ba6-42a2-9a5f-61a13073471c" alt=/>
@@ -20,6 +20,7 @@ Make note of the username and passowrd you create. Then click review + create to
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/7f7b871a-6dfd-4e2a-a2ce-f395a7044b26" alt=/>
 To start of we will open the Server manager application in our Windows server VM.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/89069ca5-5b6f-4dc6-bbab-568e135f8c55" alt=/>
+
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/3de1e86d-b1b4-4b1f-816f-8350a1516c0d" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/2beea535-283e-4a8e-b0eb-9d3db5e7cee3" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/334151b5-eb3e-4cdd-8f61-982702bcccef" alt=/>
