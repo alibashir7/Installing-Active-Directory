@@ -7,7 +7,7 @@ In this lab, I'll demonstrate how to install Active Directory Domain Services on
 - <b>Windows Server 2022</b> (Datacenter)
 
 <h2>Windows Server Manager</h2>
-To start of we will open the Server manager application in our Windows server VM.
+To start off will go to htttps://portal.azure.com and click on the virtual machine tab.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/6c81228b-239e-412a-9a1e-40115bace25c" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/7e23da19-0bbe-4355-b063-64cc57cd0729" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/f0acc944-8ba6-42a2-9a5f-61a13073471c" alt=/>
@@ -15,6 +15,7 @@ To start of we will open the Server manager application in our Windows server VM
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d31ce911-9955-47f2-b251-4fc735346ad5" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/3ae59950-a21c-4b0a-ad05-cd3f3b4f16d1" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/7f7b871a-6dfd-4e2a-a2ce-f395a7044b26" alt=/>
+To start of we will open the Server manager application in our Windows server VM.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/89069ca5-5b6f-4dc6-bbab-568e135f8c55" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/3de1e86d-b1b4-4b1f-816f-8350a1516c0d" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/2beea535-283e-4a8e-b0eb-9d3db5e7cee3" alt=/>
