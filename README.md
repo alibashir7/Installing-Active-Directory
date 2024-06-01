@@ -23,15 +23,22 @@ To start of we will open the Server manager application in our Windows server VM
 Click on add roles and features.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/3de1e86d-b1b4-4b1f-816f-8350a1516c0d" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/2beea535-283e-4a8e-b0eb-9d3db5e7cee3" alt=/>
+Select Role-based or feature-based installation.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/334151b5-eb3e-4cdd-8f61-982702bcccef" alt=/>
+Click select a server from the server pool and select our DC-1 machine.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d3291a34-ed28-4a03-8d91-5f41696ce270" alt=/>
+Click the option Active Directory Domain Services.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/13517796-d544-4601-8ddb-46d9b31697d7" alt=/>
+Add features.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/1f5288e6-fcd3-4b67-bd78-64201302c309" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/695c1860-793b-4551-b970-2bc4b466ede3" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/f473d6da-7897-43f1-9d78-89f3c69c639d" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/8be627b5-a357-4fdc-8019-55916abf97ea" alt=/>
+Hit install.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/de547999-d383-4859-b07f-f7d175d6ae92" alt=/>
+Click close once the Installation bar is completed.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/b2211be4-d975-4137-beaf-bfe0b146edf8" alt=/>
+Click on the yellow flag in the upper right hand corner and select promote this server to a domain controller.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/dc66b3fc-afeb-4c80-9729-0263ae940a5f" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d362f625-947c-4c9e-b921-65b382e78749" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/a6148894-1412-45bc-a99f-8557191b3adb" alt=/>
