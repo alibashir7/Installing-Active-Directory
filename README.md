@@ -19,6 +19,7 @@ Once the VM is finished, go back to the VM tab and click on DC-1, as shown below
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d31ce911-9955-47f2-b251-4fc735346ad5" alt=/>
 Then select ipconfig1 and change the private IP address settings from dynamic to static, and hit save. The static IP address means that our IP address will never change, even if we turn off the VM and turn it back on. This helps ensure consistent network identity and convenient remote access.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/3ae59950-a21c-4b0a-ad05-cd3f3b4f16d1" alt=/>
+Head back to the VM portal and open up Remote Desktop Connection on your PC. Copy the public IP address next to the DC-1 machine and insert it into RDC to open your Windows server.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/7f7b871a-6dfd-4e2a-a2ce-f395a7044b26" alt=/>
 To start of we will open the Server manager application in our Windows server VM.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/89069ca5-5b6f-4dc6-bbab-568e135f8c55" alt=/>
