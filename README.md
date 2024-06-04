@@ -51,11 +51,9 @@ Select next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d3c106cb-e4a7-4a3b-97f8-14a09496f9e1" alt=/>
 Select next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/69e19a9a-ef36-4981-b322-9874b114e964" alt=/>
-Next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/9c3703da-9215-4f72-aac2-b69f97a70afd" alt=/>
-Next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/426b90a6-5b9e-44b7-b38e-ad5b18b420f0" alt=/>
-Install.
+Hit Install.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/80622144-fd88-4c3e-a276-bc05d20b983e" alt=/>
 The server will proceed to sign you out.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/71a18563-08ef-478a-925b-ac510d26819e" alt=/>
