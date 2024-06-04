@@ -43,15 +43,26 @@ Click close once the Installation bar is completed.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/b2211be4-d975-4137-beaf-bfe0b146edf8" alt=/>
 Click on the yellow flag in the upper right hand corner and select promote this server to a domain controller.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/dc66b3fc-afeb-4c80-9729-0263ae940a5f" alt=/>
+Select add a new forest and name your domain anything you want and end it with .com.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d362f625-947c-4c9e-b921-65b382e78749" alt=/>
+Create a password and make sure it has at least one uppercase letter, lowercase letters, and a number. For this demenstration I used Password1. 
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/a6148894-1412-45bc-a99f-8557191b3adb" alt=/>
+Select next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d3c106cb-e4a7-4a3b-97f8-14a09496f9e1" alt=/>
+Select next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/69e19a9a-ef36-4981-b322-9874b114e964" alt=/>
+Next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/9c3703da-9215-4f72-aac2-b69f97a70afd" alt=/>
+Next.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/426b90a6-5b9e-44b7-b38e-ad5b18b420f0" alt=/>
+Install.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/80622144-fd88-4c3e-a276-bc05d20b983e" alt=/>
+The server will proceed to sign you out.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/71a18563-08ef-478a-925b-ac510d26819e" alt=/>
-<img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/5da4d269-240b-445f-8a71-e9df253f1073" alt=/>
+Open RDC again and reconnect after five minutes. <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/5da4d269-240b-445f-8a71-e9df253f1073" alt=/>
+Sign into the server with the domain name, username, and passwords we created, as shown in the image below. 
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/86c7a8a6-b903-4d25-9a83-959c35b9388b" alt=/>
+It will take a long time for the server to open so just be patient.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/57aac7d3-20e3-44cc-b828-66d3131e31b0" alt=/>
+Once your logged in open windows server and you should see ADDS running on the server.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/e8eb82a2-09db-431a-b0ab-5e61f3216dd0" alt=/>
