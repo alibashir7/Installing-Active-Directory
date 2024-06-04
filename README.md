@@ -15,7 +15,9 @@ For the resource group we won't put anything and will let Azure create one for u
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/f0acc944-8ba6-42a2-9a5f-61a13073471c" alt=/>
 Make note of the username and passowrd you create. Then click review + create to finish the VM process.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/e05974ff-1e46-42e8-9206-0343e61a10c6" alt=/>
+Once the VM is finished, go back to the VM tab and click on DC-1, as shown below. Go to NetWok settings and click on the Network Interface/IP Configuration slot.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/d31ce911-9955-47f2-b251-4fc735346ad5" alt=/>
+Then select ipconfig1 and change the private IP address settings from dynamic to static, and hit save.
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/3ae59950-a21c-4b0a-ad05-cd3f3b4f16d1" alt=/>
 <img src="https://github.com/alibashir7/Installing-Active-Directory/assets/165006117/7f7b871a-6dfd-4e2a-a2ce-f395a7044b26" alt=/>
 To start of we will open the Server manager application in our Windows server VM.
